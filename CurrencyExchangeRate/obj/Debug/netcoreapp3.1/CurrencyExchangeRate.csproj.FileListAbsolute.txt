@@ -1,0 +1,15 @@
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\bin\Debug\netcoreapp3.1\CurrencyExchangeRate.deps.json
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\bin\Debug\netcoreapp3.1\CurrencyExchangeRate.runtimeconfig.json
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\bin\Debug\netcoreapp3.1\CurrencyExchangeRate.runtimeconfig.dev.json
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\bin\Debug\netcoreapp3.1\CurrencyExchangeRate.dll
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\bin\Debug\netcoreapp3.1\CurrencyExchangeRate.pdb
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\bin\Debug\netcoreapp3.1\Base.dll
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\bin\Debug\netcoreapp3.1\Base.pdb
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\obj\Debug\netcoreapp3.1\CurrencyExchangeRate.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\obj\Debug\netcoreapp3.1\CurrencyExchangeRate.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\obj\Debug\netcoreapp3.1\CurrencyExchangeRate.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\obj\Debug\netcoreapp3.1\CurrencyExchangeRate.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\obj\Debug\netcoreapp3.1\CurrencyExchangeRate.csproj.CopyComplete
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\obj\Debug\netcoreapp3.1\CurrencyExchangeRate.dll
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\obj\Debug\netcoreapp3.1\CurrencyExchangeRate.pdb
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\CurrencyExchangeRate\obj\Debug\netcoreapp3.1\CurrencyExchangeRate.genruntimeconfig.cache

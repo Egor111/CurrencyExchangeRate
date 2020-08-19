@@ -1,0 +1,11 @@
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\bin\Debug\netcoreapp3.1\Base.deps.json
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.json
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.dev.json
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\bin\Debug\netcoreapp3.1\Base.dll
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\bin\Debug\netcoreapp3.1\Base.pdb
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\obj\Debug\netcoreapp3.1\Base.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\obj\Debug\netcoreapp3.1\Base.dll
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\obj\Debug\netcoreapp3.1\Base.pdb
+C:\Users\Егор\Desktop\Поиск работы\Тестовые задания\CurrencyExchangeRate\Base\obj\Debug\netcoreapp3.1\Base.genruntimeconfig.cache
